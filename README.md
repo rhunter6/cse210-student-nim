@@ -46,4 +46,4 @@ root                    (project root folder)
 
 ---
 
--   rhunter was here
+-   Brother Hunter russellh@byui.edu
